@@ -12,7 +12,7 @@ int _abc(int c)
 	return (c);
 	}
 	else
-	return (c " -1);
+	return (c * -1);
 
 }
 
