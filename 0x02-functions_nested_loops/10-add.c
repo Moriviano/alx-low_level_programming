@@ -2,8 +2,8 @@
 
 /**
  * add - Adds tow integer.
- * @nual: This first integer to be added.
- * @nua2:  The second integer to be added.
+ * @nual: The first integer to be added.
+ * @nua2: The second integer to be added.
  *
  * Return: The result of the addition.
  */ 
