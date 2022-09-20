@@ -16,6 +16,7 @@ void rev_string(char *s)
 	{
 		i++;
 	}
+
 	size = i - 1;
 	half = size / 2;
 	while (half >= 0)
@@ -26,5 +27,6 @@ void rev_string(char *s)
 		s[size - half] = last;
 		half--;
 	}
+
 }
 
