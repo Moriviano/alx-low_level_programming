@@ -27,6 +27,7 @@ char *rot13(char *s)
 			{
 				s[stringCount] = r2[rotation];
 				break;
+			}
 		}
 	}
 	return (s);
