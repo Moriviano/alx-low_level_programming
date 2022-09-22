@@ -5,12 +5,16 @@
  *
  * Author: Moriviano
  *
- * Return: Always 0 (Succes
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-char string[70] = "\"Programming is like building a multilingual puzzle\"";
+	char string[70] = "\"Programming is like building a multilingual puzzle\"";
 
-puts(string);
+	puts(string);
+
+	/* Tried printing it directly */
+
+	puts("\"Programming is like building a multilingual puzzle\"");
+	return (0);
 }
-
