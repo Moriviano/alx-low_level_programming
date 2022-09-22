@@ -13,3 +13,4 @@ char string[70] = "\"Programming is like building a multilingual puzzle\"";
 
 puts(string);
 }
+
