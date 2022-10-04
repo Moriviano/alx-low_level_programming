@@ -42,6 +42,3 @@ char *argstostr(int ac, char **av)
 	return (str);
 }
 
-	return (str);
-}i
-
